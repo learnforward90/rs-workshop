@@ -1,3 +1,5 @@
 "Some text for header!" -
 "Another text for a file" 
-"Changes from main" ---- new CHANGES!
+"Changes from first " 
+"Changes from main" 
+"text from master: ---- new CHANGES!
